@@ -16,6 +16,7 @@ namespace ConsoleApp
             fruitList.Add("Strawberry");
             fruitList.Add("Banana");
             fruitList.Add("Fig");
+            fruitList.Add("Apple");
 
             foreach (var item in fruitList)
             {

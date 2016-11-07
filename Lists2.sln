@@ -1,9 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{729004EC-0653-4AAD-A39A-2473F8F65671}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists2", "ConsoleApp\Lists2.csproj", "{729004EC-0653-4AAD-A39A-2473F8F65671}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
